@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmeanors": "github:stdlib-js/stats-base-ndarray-dmeanors#main",
     "@stdlib/stats-base-ndarray-meanors": "github:stdlib-js/stats-base-ndarray-meanors#main",
     "@stdlib/stats-base-ndarray-smeanors": "github:stdlib-js/stats-base-ndarray-smeanors#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
