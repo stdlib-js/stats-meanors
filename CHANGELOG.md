@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-12-17)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
+-   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`e645614`](https://github.com/stdlib-js/stdlib/commit/e64561496e00760d08fb263a656093a1106df840) - **docs:** update return annotations to use ndarray instance notation for `stats/meanors` [(#9101)](https://github.com/stdlib-js/stdlib/pull/9101) _(by Pratik)_
 -   [`d59bcf1`](https://github.com/stdlib-js/stdlib/commit/d59bcf10a72a422cbe767dc1dab9e903dabbd300) - **feat:** add `stats/meanors` [(#8793)](https://github.com/stdlib-js/stdlib/pull/8793) _(by Sachin Pangal, Athan Reines)_
 
